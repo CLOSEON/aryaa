@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/sorry", "dest": "/no1.html" },
+    { "src": "/pleasee", "dest": "/no2.html" },
+    { "src": "/maanja", "dest": "/no3.html" },
+    { "src": "/loveyou", "dest": "/yes.html" }
+  ]
+}
